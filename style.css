@@ -26,6 +26,7 @@ a, .btn {
 
 nav, .nav-links {
     display: flex;
+    background-color: rgba(0, 0, 0, 0.911);
 }
 
 nav {
